@@ -92,7 +92,7 @@ while True:
         print("Server has closed the chat.")
         break
 ```
-## OUPUT
+## OUTPUT:
 ### SERVER:
 ![image](https://github.com/user-attachments/assets/21c95cfe-21b0-413b-9b4e-1bcd674a5c51)
 ### CLIENT:
